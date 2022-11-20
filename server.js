@@ -11,4 +11,4 @@ app.get('/*', function (req, res) {
 const port = Number(process.env.PORT) || 9000;
 
 app.listen(port);
-console.info(`Server is listening on port ${port}`);
+console.info(`Server is located at http://localhost:${port}`);
