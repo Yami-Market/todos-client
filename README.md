@@ -8,7 +8,7 @@ This is todos demo client with React.
 
 ```bash
 # Download the source code
-git clone
+git clone git@github.com:Yami-Market/todos-client.git
 
 # Install the dependencies
 npm install
