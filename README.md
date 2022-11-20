@@ -1,6 +1,8 @@
 # Todo Client
 
-This is todos demo client with React.
+This is todos client demo with React.
+
+The todos server demo is [here](https://github.com/Yami-Market/todos-server).
 
 ## Installation
 
